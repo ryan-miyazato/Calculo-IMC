@@ -1,90 +1,6 @@
 {
     "banco": [
         {
-            "nome": "joao",
-            "peso": 2.0,
-            "altura": 2.0,
-            "imc": 0.5,
-            "diagnostico": "Peso abaixo do normal"
-        },
-        {
-            "nome": "ryan",
-            "peso": 2.0,
-            "altura": 2.0,
-            "imc": 0.5,
-            "diagnostico": "Peso abaixo do normal"
-        },
-        {
-            "nome": "pedro",
-            "peso": 6.0,
-            "altura": 1.0,
-            "imc": 6.0,
-            "diagnostico": "Peso abaixo do normal"
-        },
-        {
-            "nome": "gus",
-            "peso": 60.0,
-            "altura": 1.0,
-            "imc": 60.0,
-            "diagnostico": "Obesidade m\u00f3rbida"
-        },
-        {
-            "nome": "joao2",
-            "peso": 70.0,
-            "altura": 1.8,
-            "imc": 21.6,
-            "diagnostico": "Peso normal"
-        },
-        {
-            "nome": "roxo",
-            "peso": 56.0,
-            "altura": 2.5,
-            "imc": 8.96,
-            "diagnostico": "Peso abaixo do normal"
-        },
-        {
-            "nome": "ruan",
-            "peso": 2.0,
-            "altura": 6.0,
-            "imc": 0.06,
-            "diagnostico": "Peso abaixo do normal"
-        },
-        {
-            "nome": "juan",
-            "peso": 87.0,
-            "altura": 2.0,
-            "imc": 21.75,
-            "diagnostico": "Peso normal"
-        },
-        {
-            "nome": "amogus",
-            "peso": 89.0,
-            "altura": 0.5,
-            "imc": 356.0,
-            "diagnostico": "Obesidade m\u00f3rbida"
-        },
-        {
-            "nome": "carlos",
-            "peso": 120.0,
-            "altura": 0.5,
-            "imc": 480.0,
-            "diagnostico": "Obesidade m\u00f3rbida"
-        },
-        {
-            "nome": "aruan",
-            "peso": 17.0,
-            "altura": 1.0,
-            "imc": 17.0,
-            "diagnostico": "Peso abaixo do normal"
-        },
-        {
-            "nome": "julia",
-            "peso": 25.0,
-            "altura": 1.7,
-            "imc": 8.65,
-            "diagnostico": "Peso abaixo do normal"
-        },
-        {
             "nome": "ryan",
             "sexo": "m",
             "peso": 58.0,
@@ -93,36 +9,44 @@
             "diagnostico": "Peso normal"
         },
         {
-            "nome": "nome",
+            "nome": "joao",
             "sexo": "m",
-            "peso": 76.0,
-            "altura": 1.5,
-            "imc": 33.78,
-            "diagnostico": "Obeso"
-        },
-        {
-            "nome": "bruna",
-            "sexo": "f",
             "peso": 48.0,
-            "altura": 1.45,
-            "imc": 22.83,
-            "diagnostico": "Peso normal"
-        },
-        {
-            "nome": "juana",
-            "sexo": "f",
-            "peso": 72.0,
-            "altura": 1.72,
-            "imc": 24.34,
-            "diagnostico": "Peso normal"
-        },
-        {
-            "nome": "lucca",
-            "sexo": "m",
-            "peso": 87.0,
-            "altura": 2.3,
-            "imc": 16.45,
+            "altura": 1.76,
+            "imc": 15.5,
             "diagnostico": "Peso abaixo do normal"
+        },
+        {
+            "nome": "julia ",
+            "sexo": "f",
+            "peso": 88.0,
+            "altura": 1.5,
+            "imc": 39.11,
+            "diagnostico": "Obesa"
+        },
+        {
+            "nome": "vini",
+            "sexo": "m",
+            "peso": 47.0,
+            "altura": 1.72,
+            "imc": 15.89,
+            "diagnostico": "Peso abaixo do normal"
+        },
+        {
+            "nome": "davi",
+            "sexo": "m",
+            "peso": 70.0,
+            "altura": 1.7,
+            "imc": 24.22,
+            "diagnostico": "Peso normal"
+        },
+        {
+            "nome": "Marise Miranda",
+            "sexo": "f",
+            "peso": 58.0,
+            "altura": 1.7,
+            "imc": 20.07,
+            "diagnostico": "Peso normal"
         }
     ]
 }
